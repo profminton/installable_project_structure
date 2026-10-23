@@ -8,8 +8,14 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = { file = "LICENSE" }
 dependencies = [
-    'numpy',
+    "numpy",
+    "scipy",
+    "matplotlib",
 ]
+
+
+[project.optional-dependencies]
+tests = ["pytest"]
 
 
 [build-system]

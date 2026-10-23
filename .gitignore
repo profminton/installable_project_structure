@@ -2,6 +2,12 @@
 !.gitignore
 !README.md
 !LICENSE
-!example_project
-!example_project/*.py
 !pyproject.toml
+!src/
+!src/example_project
+!src/example_project/*.py
+!examples/
+!examples/example_outputs.py
+!examples/example_fit.py
+!tests/
+!tests/*.py
