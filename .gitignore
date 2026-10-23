@@ -11,3 +11,7 @@
 !examples/example_fit.py
 !tests/
 !tests/*.py
+!plots/
+!plots/.gitignore
+!data/
+!data/.gitignore
